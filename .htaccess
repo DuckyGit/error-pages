@@ -1,7 +1,7 @@
-ErrorDocument 400 http://example.com/errorpage
-ErrorDocument 401 http://example.com/errorpage
-ErrorDocument 403 http://example.com/errorpage
-ErrorDocument 404 http://example.com/errorpage
-ErrorDocument 503 http://example.com/errorpage
+ErrorDocument 400 http://example.com/400.html
+ErrorDocument 401 http://example.com/401.html
+ErrorDocument 403 http://example.com/403.html
+ErrorDocument 404 http://example.com/404.html
+ErrorDocument 503 http://example.com/503.html
 
 CONFIG THIS
